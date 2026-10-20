@@ -35,11 +35,11 @@ erDiagram
 ## 🔍 Perguntas de negócio respondidas com SQL
  
 1. Quantos clientes moram em Campo Grande?
-2. Quais veículos estão reservados, do mais caro ao mais barato?
-3. Quantos veículos há em cada status? 
-4. Quais são os 5 veículos a diesel mais caros acima de R$ 100 mil?
-5. Quais veículos brancos são dos anos 2022 a 2024? 
-6. Quais vendedores têm comissão a partir de 2,5%? 
+2. Quais veículos estão reservados ?
+3. Quais marcas geram mais faturamento nas vendas, e como elas se comparam entre si ?
+4. Quais são os 5 veículos mais acessíveis ?
+5. Quais marcas tem maior influência em vendas ? 
+6. Qual ticket médio dos anos 2024, 2025 e 2026 ? 
 
 ## 📊 Principais insights
  
